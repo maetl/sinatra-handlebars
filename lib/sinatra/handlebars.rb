@@ -88,4 +88,6 @@ module Sinatra
 
     end
   end
+  
+  register Handlebars
 end
