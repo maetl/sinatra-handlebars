@@ -1,3 +1,4 @@
+require "sinatra/base"
 require File.join(File.dirname(__FILE__), 'options')
 
 module Sinatra
